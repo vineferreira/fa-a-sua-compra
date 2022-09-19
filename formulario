@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="style"
+    <title>formulario</title>
+
+</head>
+<body>
+     <h1>faça suas compras</h1>    
+     <form>
+     
+         <p> Nome:<input type="text" nome="nome"  id="nome"></p>
+         <p> sobrenome:<input type="text" nome="sobrenome" id="nome"><p>
+         <p>idade:<input type="date" nome="nascimento" id="idade"></p>
+         <p>email:<input type="email" nome="email" id="emeil" ></p>
+         <p>mensagem:<input type="text" nome="sua mensagem" id="mensagen"></p>
+         <p>endereço:<input type="text" nome="endereço" id="texto">  </p>
+        
+
+         <p>Enviar<input type="submit" nome="enviar" id="enviar"> </p>
+        
+
+     </form>
+     
+
+
+</body>
+</html>
